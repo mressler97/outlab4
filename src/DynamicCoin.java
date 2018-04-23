@@ -42,15 +42,5 @@ public class DynamicCoin {
 	        System.out.println( Arrays.toString(coins)); 
 	        return result;
 	        }
-	    
-	    
-	 /*
-	    // Driver program 
-	    public static void main (String[] args) 
-	    {
-	        int coins[] = {1,5,10,25};
-	        int total = 42;
-	        numCoins(coins, total);
-	    }
-	*/
+
 }
